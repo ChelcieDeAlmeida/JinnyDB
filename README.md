@@ -1,6 +1,6 @@
 # JinnyDB
 
-JinnyDB is a Natural Language to Databases (NLIDB) application powered by text-to-sql that allows users to to prompt their database using natural language to retrieve data from their databases
+JinnyDB is a Natural Language to Databases (NLIDB) application powered by text-to-sql that allows users to prompt their database using natural language to retrieve data from their databases
 
 ## Table of Contents
 
