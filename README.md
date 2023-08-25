@@ -7,6 +7,7 @@ JinnyDB is a Natural Language to Databases (NLIDB) application powered by text-t
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
+- [TO DO](#todo)
 
 ## Installation
 
@@ -24,11 +25,7 @@ Currently does not have any license
 
 No Active Contribution
 
-## Tests
 
-local test
-
-## Questions
 
 ## TO DO:
 - [ ] Add template logic for dialect/user input/database object definitions
