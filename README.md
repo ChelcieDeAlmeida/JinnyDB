@@ -30,3 +30,8 @@ local test
 
 ## Questions
 
+## TO DO:
+- [ ] Add template logic for dialect/user input/database object definitions
+- [ ] Add logic to handle case sensitivity on input values
+- [ ] Add logic to store SQLChatMessageHistory in DB and clear session memory from DB
+- [ ] Prompt users to choose their Database and add connection variables
