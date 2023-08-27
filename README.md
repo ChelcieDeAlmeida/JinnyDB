@@ -23,8 +23,8 @@ You will need an account with OpenAI if you plan on using the GPT-3.5-Turbo-16K 
 ## Usage
 
 This experiment used two databases through postgres:
-- AdventureWorks [Download/Installation Here](https://github.com/lorint/AdventureWorks-for-Postgres)
-- Bookings  [Download/Installation Here] (https://postgrespro.com/docs/postgrespro/10/demodb-bookings)
+- AdventureWorks [Download Here](https://github.com/lorint/AdventureWorks-for-Postgres)
+- Bookings  [Download Here](https://postgrespro.com/docs/postgrespro/10/demodb-bookings)
 
 Note that I modified these databases to have it work for my purpose, you may choose to do the same or work on your own databases
 but should you decide that you'd like to do work on this exact project then you may find the queries I used in the db folder of this repo.
